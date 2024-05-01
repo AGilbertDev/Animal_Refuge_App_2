@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ul2yzUxI7u2v/ieWadW15Ko59fC7JBdOagD0CCfyiq8h7gL/G9Yzqb2GBoNmngpk9EBz/dZxeDmnZbHwEYi50w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AGilbert\\Desktop\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AGilbert\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\AGilbert\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\AGilbert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\AGilbert\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
